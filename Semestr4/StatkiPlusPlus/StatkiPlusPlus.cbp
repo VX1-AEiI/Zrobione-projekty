@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="StatkiPlusPlus" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/StatkiPlusPlus" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="klasy" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/StatkiPlusPlus" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="klasy" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-pedantic" />
+			<Add option="-Wextra" />
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="klasy/admiral.cpp" />
+		<Unit filename="klasy/admiral.h" />
+		<Unit filename="klasy/cruiser.cpp" />
+		<Unit filename="klasy/cruiser.h" />
+		<Unit filename="klasy/gra.cpp" />
+		<Unit filename="klasy/gra.h" />
+		<Unit filename="klasy/graPlusPlus.cpp" />
+		<Unit filename="klasy/graPlusPlus.h" />
+		<Unit filename="klasy/jednostka.cpp" />
+		<Unit filename="klasy/jednostka.h" />
+		<Unit filename="klasy/lotniskowiec.cpp" />
+		<Unit filename="klasy/lotniskowiec.h" />
+		<Unit filename="klasy/niszczyciel.cpp" />
+		<Unit filename="klasy/niszczyciel.h" />
+		<Unit filename="klasy/patrol_boat.cpp" />
+		<Unit filename="klasy/patrol_boat.h" />
+		<Unit filename="klasy/pole.cpp" />
+		<Unit filename="klasy/pole.h" />
+		<Unit filename="klasy/programstatki.cpp" />
+		<Unit filename="klasy/programstatki.h" />
+		<Unit filename="klasy/smart_char.h" />
+		<Unit filename="klasy/submarine.cpp" />
+		<Unit filename="klasy/submarine.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

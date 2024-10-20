@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1718883549 source:e:\projekty\c_plus_plus\semestr4\statkiplusplus\main.cpp
+	"programstatki.h"
+
+1718883603 e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\programstatki.h
+	<iostream>
+	<windows.h>
+	"graPlusPlus.h"
+
+1718880272 source:e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\gra.cpp
+	"gra.h"
+
+1718800071 e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\gra.h
+	"pole.h"
+	"admiral.h"
+	"smart_char.h"
+	<vector>
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<regex>
+	<functional>
+	<fstream>
+	<filesystem>
+	<thread>
+
+1715334172 e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\pole.h
+
+1718718108 e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\admiral.h
+	<vector>
+	<memory>
+	"patrol_boat.h"
+	"submarine.h"
+	"niszczyciel.h"
+	"cruiser.h"
+	"lotniskowiec.h"
+
+1714771058 e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\patrol_boat.h
+	"jednostka.h"
+
+1718718504 e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\jednostka.h
+	<string>
+
+1714771220 e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\submarine.h
+	"jednostka.h"
+
+1714771224 e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\niszczyciel.h
+	"jednostka.h"
+
+1714771102 e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\cruiser.h
+	"jednostka.h"
+
+1714771228 e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\lotniskowiec.h
+	"jednostka.h"
+
+1714568234 e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\smart_char.h
+
+1718883472 source:e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\graplusplus.cpp
+	"graPlusPlus.h"
+
+1718881525 e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\graplusplus.h
+	"gra.h"
+
+1715334188 source:e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\pole.cpp
+	"pole.h"
+
+1718885836 source:e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\programstatki.cpp
+	"programstatki.h"
+
+1718717300 source:e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\cruiser.cpp
+	"cruiser.h"
+
+1718718413 source:e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\lotniskowiec.cpp
+	"lotniskowiec.h"
+
+1718717324 source:e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\niszczyciel.cpp
+	"niszczyciel.h"
+
+1718717334 source:e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\patrol_boat.cpp
+	"patrol_boat.h"
+
+1718717339 source:e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\submarine.cpp
+	"submarine.h"
+
+1718717277 source:e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\jednostka.cpp
+	"jednostka.h"
+
+1715332370 source:g:\lekcje\studia\cplusplus\statkiplusplus\klasy\cruiser.cpp
+	"cruiser.h"
+
+1714771102 g:\lekcje\studia\cplusplus\statkiplusplus\klasy\cruiser.h
+	"jednostka.h"
+
+1715332970 g:\lekcje\studia\cplusplus\statkiplusplus\klasy\jednostka.h
+	<string>
+
+1715286386 source:g:\lekcje\studia\cplusplus\statkiplusplus\klasy\graplusplus.cpp
+	"graPlusPlus.h"
+
+1715286380 g:\lekcje\studia\cplusplus\statkiplusplus\klasy\graplusplus.h
+	"gra.h"
+
+1715432517 g:\lekcje\studia\cplusplus\statkiplusplus\klasy\gra.h
+	"pole.h"
+	"admiral.h"
+	"smart_char.h"
+	<vector>
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<regex>
+
+1715334172 g:\lekcje\studia\cplusplus\statkiplusplus\klasy\pole.h
+
+1715436895 g:\lekcje\studia\cplusplus\statkiplusplus\klasy\admiral.h
+	<vector>
+	<memory>
+	"patrol_boat.h"
+	"submarine.h"
+	"niszczyciel.h"
+	"cruiser.h"
+	"lotniskowiec.h"
+
+1714771058 g:\lekcje\studia\cplusplus\statkiplusplus\klasy\patrol_boat.h
+	"jednostka.h"
+
+1714771220 g:\lekcje\studia\cplusplus\statkiplusplus\klasy\submarine.h
+	"jednostka.h"
+
+1714771224 g:\lekcje\studia\cplusplus\statkiplusplus\klasy\niszczyciel.h
+	"jednostka.h"
+
+1714771228 g:\lekcje\studia\cplusplus\statkiplusplus\klasy\lotniskowiec.h
+	"jednostka.h"
+
+1714568234 g:\lekcje\studia\cplusplus\statkiplusplus\klasy\smart_char.h
+
+1715333500 source:g:\lekcje\studia\cplusplus\statkiplusplus\klasy\jednostka.cpp
+	"jednostka.h"
+
+1715332380 source:g:\lekcje\studia\cplusplus\statkiplusplus\klasy\lotniskowiec.cpp
+	"lotniskowiec.h"
+
+1715332362 source:g:\lekcje\studia\cplusplus\statkiplusplus\klasy\niszczyciel.cpp
+	"niszczyciel.h"
+
+1715332326 source:g:\lekcje\studia\cplusplus\statkiplusplus\klasy\patrol_boat.cpp
+	"patrol_boat.h"
+
+1715334188 source:g:\lekcje\studia\cplusplus\statkiplusplus\klasy\pole.cpp
+	"pole.h"
+
+1715437210 source:g:\lekcje\studia\cplusplus\statkiplusplus\klasy\programstatki.cpp
+	"programstatki.h"
+
+1715105818 g:\lekcje\studia\cplusplus\statkiplusplus\klasy\programstatki.h
+	<iostream>
+	<windows.h>
+	"gra.h"
+
+1715332350 source:g:\lekcje\studia\cplusplus\statkiplusplus\klasy\submarine.cpp
+	"submarine.h"
+
+1712763668 source:g:\lekcje\studia\cplusplus\statkiplusplus\main.cpp
+	"programstatki.h"
+
+1715436853 source:g:\lekcje\studia\cplusplus\statkiplusplus\klasy\admiral.cpp
+	"admiral.h"
+
+1715438262 source:g:\lekcje\studia\cplusplus\statkiplusplus\klasy\gra.cpp
+	"gra.h"
+
+1718798305 source:e:\projekty\c_plus_plus\semestr4\statkiplusplus\klasy\admiral.cpp
+	"admiral.h"
+

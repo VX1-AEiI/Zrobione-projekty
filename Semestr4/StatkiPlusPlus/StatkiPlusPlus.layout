@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="klasy\cruiser.cpp" open="0" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="177" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="116" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="klasy\gra.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7130" topLine="34" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="26" />
+			<Collapse line="37" />
+			<Collapse line="42" />
+			<Collapse line="47" />
+			<Collapse line="93" />
+			<Collapse line="98" />
+			<Collapse line="140" />
+			<Collapse line="193" />
+			<Collapse line="215" />
+			<Collapse line="237" />
+			<Collapse line="261" />
+			<Collapse line="284" />
+			<Collapse line="296" />
+			<Collapse line="506" />
+			<Collapse line="615" />
+			<Collapse line="635" />
+			<Collapse line="655" />
+			<Collapse line="669" />
+			<Collapse line="697" />
+			<Collapse line="723" />
+			<Collapse line="736" />
+			<Collapse line="742" />
+			<Collapse line="748" />
+			<Collapse line="754" />
+			<Collapse line="760" />
+			<Collapse line="776" />
+			<Collapse line="844" />
+			<Collapse line="901" />
+			<Collapse line="918" />
+			<Collapse line="931" />
+			<Collapse line="946" />
+			<Collapse line="959" />
+			<Collapse line="1026" />
+			<Collapse line="1118" />
+		</Folding>
+	</File>
+	<File name="klasy\lotniskowiec.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="144" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="klasy\programstatki.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="582" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="klasy\niszczyciel.cpp" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="210" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="klasy\jednostka.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="593" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="klasy\patrol_boat.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="194" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="klasy\jednostka.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="749" topLine="5" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="14" />
+			<Collapse line="25" />
+			<Collapse line="60" />
+		</Folding>
+	</File>
+	<File name="klasy\admiral.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="412" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="klasy\submarine.cpp" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="200" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="klasy\graPlusPlus.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="968" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="klasy\gra.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1567" topLine="26" />
+		</Cursor>
+	</File>
+	<File name="klasy\cruiser.h" open="0" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="174" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="klasy\pole.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="326" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="9" />
+			<Collapse line="15" />
+			<Collapse line="24" />
+			<Collapse line="34" />
+		</Folding>
+	</File>
+	<File name="klasy\lotniskowiec.h" open="0" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="199" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="klasy\smart_char.h" open="0" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="291" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="klasy\graPlusPlus.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="477" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="2" />
+			<Collapse line="9" />
+			<Collapse line="21" />
+			<Collapse line="39" />
+			<Collapse line="52" />
+			<Collapse line="66" />
+			<Collapse line="122" />
+			<Collapse line="136" />
+			<Collapse line="163" />
+			<Collapse line="195" />
+			<Collapse line="215" />
+			<Collapse line="230" />
+			<Collapse line="264" />
+			<Collapse line="297" />
+			<Collapse line="304" />
+			<Collapse line="360" />
+			<Collapse line="374" />
+			<Collapse line="401" />
+			<Collapse line="414" />
+			<Collapse line="433" />
+			<Collapse line="453" />
+			<Collapse line="468" />
+			<Collapse line="490" />
+			<Collapse line="504" />
+			<Collapse line="532" />
+			<Collapse line="661" />
+			<Collapse line="664" />
+			<Collapse line="907" />
+			<Collapse line="910" />
+			<Collapse line="2261" />
+			<Collapse line="2411" />
+			<Collapse line="2419" />
+			<Collapse line="2543" />
+			<Collapse line="2739" />
+		</Folding>
+	</File>
+	<File name="klasy\programstatki.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7685" topLine="11" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="11" />
+			<Collapse line="24" />
+			<Collapse line="61" />
+			<Collapse line="93" />
+			<Collapse line="126" />
+			<Collapse line="180" />
+			<Collapse line="223" />
+			<Collapse line="266" />
+			<Collapse line="293" />
+		</Folding>
+	</File>
+	<File name="klasy\pole.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="191" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="klasy\patrol_boat.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="189" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="klasy\admiral.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="428" topLine="60" />
+		</Cursor>
+		<Folding>
+			<Collapse line="43" />
+			<Collapse line="50" />
+			<Collapse line="150" />
+		</Folding>
+	</File>
+	<File name="klasy\submarine.h" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="184" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="klasy\niszczyciel.h" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="194" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

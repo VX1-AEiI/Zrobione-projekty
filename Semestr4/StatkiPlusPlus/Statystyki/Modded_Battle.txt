@@ -1,0 +1,5 @@
+Gracz 1: Modded_thread
+Trafienia: 12
+
+Gracz 2: Test_modded
+Trafienia: 6

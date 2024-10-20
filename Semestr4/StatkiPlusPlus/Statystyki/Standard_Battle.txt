@@ -1,0 +1,5 @@
+Gracz 1: Test_threadow
+Trafienia: 17
+
+Gracz 2: Czy_dziala
+Trafienia: 10
