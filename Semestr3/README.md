@@ -1,4 +1,4 @@
-<h1>PL Projekt "Sudoku"</h1>
+<h1>(PL) Projekt "Sudoku"</h1>
 
 <h3>Opis:</h3>
 Jest to gra logiczna na wzór sudoku. W ustawieniach można dostosować, czy podczas rozgrywki mają podświetlać się pola z niewłaściwą liczbą. Ustawienie KoloroweUI docelowo miało mieć efekt w trybie MegaSudoku, gdzie, ze względu na rozmiar planszy, sektory 4x4 byłyby oznakowane kolorami. Do wyświetlania kolorów w konsoli wykorzystuje bibliotekę "windows.h".
