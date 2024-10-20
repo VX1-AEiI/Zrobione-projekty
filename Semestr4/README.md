@@ -20,7 +20,7 @@ Projekt ten jest w pewnym sensie rozszerzeniem projektu z trzeciego semestru. Na
 <h3>Opis:</h3>
 
 Wersja V2 stanowi próbę refaktoryzacji pierwotnego kodu. 
-<p>Zmiany w porównaniu z pierownym kodem:</p>
+<p>Zmiany w porównaniu z pierwotnym kodem:</p>
 <p>+ Wyciągnięto algorytmy umiejętności specjalnych z pliku graPlusPlus.cpp do ich odpowiednich plików</p>
 <p>+ Ograniczono dostępność do metod wszystkich klas - zamiast w strefie public, są teraz w strefie protected lub private</p>
 <p>+ Algorytm umiejętności specjalnej dla niszczyciela został skrócony w oparciu o nowe metody. Możliwe, że wyżej wymieniony błąd z wersji 1.0 został naprawiony</p>
